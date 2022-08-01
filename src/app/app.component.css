@@ -2,3 +2,19 @@
   display: flex;
   padding: 10px;
 }
+
+#header {
+  border-style: ridge;
+}
+
+#crew {
+  background-color: aqua;
+}
+
+#equipment {
+  background-color: aquamarine;
+}
+
+#experiments {
+  background-color: rgb(151, 193, 240);
+}
